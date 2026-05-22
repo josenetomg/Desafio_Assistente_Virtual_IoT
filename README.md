@@ -12,25 +12,11 @@ Este repositório foi desenvolvido para o desafio de projeto focado em **Interne
 
 O sistema utiliza **Redes Neurais** para a interpretação e classificação de comandos de voz, convertendo a linguagem natural humana em gatilhos lógicos que controlam periféricos físicos gerenciados por microcontroladores **Arduino**.
 
----
-
-## 🏗️ Arquitetura do Sistema e Fluxo de Dados
-
-A solução opera através da integração de três camadas principais:
-
-Para este repositório, que conecta duas das suas maiores especialidades — **Inteligência Artificial (Redes Neurais)** e **Hardware/Sistemas Embarcados (Arduino e Automação)** —, a descrição precisa destacar a arquitetura da solução.
-
-# Assistente Virtual IoT com Redes Neurais para Automação Residencial
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Projeto-DIO_IoT_Challenge-orange?style=for-the-badge" alt="DIO Project">
-  <img src="https://img.shields.io/badge/IA-Redes_Neurais_/_NLP-blue?style=for-the-badge" alt="Neural Networks">
-  <img src="https://img.shields.io/badge/Hardware-Arduino_e_IoT-green?style=for-the-badge" alt="Arduino IoT">
-</p>
-
 ## 📌 Sobre o Projeto
 
-Este repositório foi desenvolvido para o desafio de projeto focado em **Internet das Coisas (IoT)** e **Inteligência Artificial** da **Digital Innovation One (DIO)**. O objetivo central é o desenvolvimento de uma arquitetura completa de **Assistente Virtual para Automação Residencial (Smart Home)**, integrando processamento de linguagem e controle de hardware em tempo real.
+Este repositório foi desenvolvido para o desafio de projeto focado em **Internet das Coisas (IoT)** e **Inteligência Artificial** da **Digital Innovation One (DIO)**. 
+
+O objetivo central é o desenvolvimento de uma arquitetura completa de **Assistente Virtual para Automação Residencial (Smart Home)**, integrando processamento de linguagem e controle de hardware em tempo real.
 
 O sistema utiliza **Redes Neurais** para a interpretação e classificação de comandos de voz, convertendo a linguagem natural humana em gatilhos lógicos que controlam periféricos físicos gerenciados por microcontroladores **Arduino**.
 
