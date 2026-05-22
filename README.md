@@ -40,23 +40,41 @@ O sistema utiliza **Redes Neurais** para a interpretação e classificação de 
 A solução opera através da integração de três camadas principais:
 
 [ Comando de Voz ] 
+
 │ 
+
 ▼ 
+
 ┌───────────────────────────────────┐ 
+
 │   Camada de IA & Processamento    │ -> Processamento de Linguagem Natural (NLP) 
+
 │  (Classificação via Redes Neurais)│    Reconhecimento de Intenções (Intent Parsing) 
+
 └───────────────────────────────────┘ 
-│ 
+
+│
+
 ▼  [ Sinal Lógico / Serial ou Wi-Fi ] 
+
 ┌───────────────────────────────────┐ 
+
 │        Camada de Controle         │ -> Microcontrolador Arduino (ATmega328P / ESP8266) 
+
 │         (Firmware/Lógica)         │    Mapeamento de Pinos e Relés 
+
 └───────────────────────────────────┘ 
+
 │ 
+
 ▼ 
+
 ┌───────────────────────────────────┐ 
+
 │  Camada de Atuação (World Physics)│ -> Lâmpadas, Motores, Sirenes, Cargas de Potência 
+
 └───────────────────────────────────┘ 
+
 
 ---
 
