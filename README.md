@@ -6,11 +6,6 @@
   <img src="https://img.shields.io/badge/Hardware-Arduino_e_IoT-green?style=for-the-badge" alt="Arduino IoT">
 </p>
 
-## 📌 Sobre o Projeto
-
-Este repositório foi desenvolvido para o desafio de projeto focado em **Internet das Coisas (IoT)** e **Inteligência Artificial** da **Digital Innovation One (DIO)**. O objetivo central é o desenvolvimento de uma arquitetura completa de **Assistente Virtual para Automação Residencial (Smart Home)**, integrando processamento de linguagem e controle de hardware em tempo real.
-
-O sistema utiliza **Redes Neurais** para a interpretação e classificação de comandos de voz, convertendo a linguagem natural humana em gatilhos lógicos que controlam periféricos físicos gerenciados por microcontroladores **Arduino**.
 
 ## 📌 Sobre o Projeto
 
