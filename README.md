@@ -41,17 +41,17 @@ A solução opera através da integração de três camadas principais:
 
 [ Comando de Voz ] 
 
-│ 
+│
 
 ▼ 
 
-┌───────────────────────────────────┐ 
+┌────────────────────────────────┐ 
 
-│   Camada de IA & Processamento                   │ -> Processamento de Linguagem Natural (NLP) 
+│   Camada de IA & Processamento  │ -> Processamento de Linguagem Natural (NLP) 
 
-│  (Classificação via Redes Neurais)               │    Reconhecimento de Intenções (Intent Parsing) 
+│  (Classificação via Redes Neurais) │    Reconhecimento de Intenções (Intent Parsing) 
 
-└───────────────────────────────────┘ 
+└────────────────────────────────┘ 
 
 │
 
