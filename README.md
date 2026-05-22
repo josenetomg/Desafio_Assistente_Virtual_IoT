@@ -47,9 +47,9 @@ A solução opera através da integração de três camadas principais:
 
 ┌───────────────────────────────────┐ 
 
-│   Camada de IA & Processamento    │ -> Processamento de Linguagem Natural (NLP) 
+│   Camada de IA & Processamento                   │ -> Processamento de Linguagem Natural (NLP) 
 
-│  (Classificação via Redes Neurais)│    Reconhecimento de Intenções (Intent Parsing) 
+│  (Classificação via Redes Neurais)               │    Reconhecimento de Intenções (Intent Parsing) 
 
 └───────────────────────────────────┘ 
 
@@ -59,9 +59,9 @@ A solução opera através da integração de três camadas principais:
 
 ┌───────────────────────────────────┐ 
 
-│        Camada de Controle         │ -> Microcontrolador Arduino (ATmega328P / ESP8266) 
+│        Camada de Controle                        │ -> Microcontrolador Arduino (ATmega328P / ESP8266) 
 
-│         (Firmware/Lógica)         │    Mapeamento de Pinos e Relés 
+│         (Firmware/Lógica)                        │    Mapeamento de Pinos e Relés 
 
 └───────────────────────────────────┘ 
 
@@ -71,7 +71,7 @@ A solução opera através da integração de três camadas principais:
 
 ┌───────────────────────────────────┐ 
 
-│  Camada de Atuação (World Physics)│ -> Lâmpadas, Motores, Sirenes, Cargas de Potência 
+│  Camada de Atuação (World Physics)                │ -> Lâmpadas, Motores, Sirenes, Cargas de Potência 
 
 └───────────────────────────────────┘ 
 
